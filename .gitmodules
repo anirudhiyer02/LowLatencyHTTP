@@ -1,0 +1,3 @@
+[submodule "cs190j/hw2/hello_foundry/lib/forge-std"]
+	path = cs190j/hw2/hello_foundry/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
